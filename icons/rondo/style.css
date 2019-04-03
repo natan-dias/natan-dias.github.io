@@ -30,6 +30,7 @@ Author: Frittt.com using Bootstrap 3
 [class^="social-icon-"]:before, [class*=" social-icon-"]:before {
 	font-family: 'rondo';
 	font-style: normal;
+	text-decoration: none;
 	speak: none;
 	/* Enable Ligatures */
 	-webkit-font-feature-settings:"liga","dlig";-moz-font-feature-settings:"liga=1, dlig=1";-moz-font-feature-settings:"liga","dlig";-ms-font-feature-settings:"liga","dlig";-o-font-feature-settings:"liga","dlig";
@@ -119,6 +120,7 @@ Author: Frittt.com using Bootstrap 3
 }
 .social-icon-facebook:before {
 	content: "\66\61\63\65\62\6f\6f\6b";
+	text-decoration: none;
 }
 .social-icon-email:before {
 	content: "\65\6d\61\69\6c";
@@ -159,4 +161,3 @@ Author: Frittt.com using Bootstrap 3
 .social-icon-px:before {
 	content: "\66\69\76\65\68\75\6e\64\72\65\64";
 }
-
