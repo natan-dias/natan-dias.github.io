@@ -1,0 +1,23 @@
+.floating-menu {
+    font-family: sans-serif;
+    background: blueviolet;
+    padding: 1px;;
+    width: 63px;
+    z-index: 100;
+    position: fixed;
+    bottom: 50%;
+    right: 0px;
+  }
+
+  .floating-menu a, 
+  .floating-menu h3 {
+    font-size: 0.9em;
+    display: block;
+    margin: 0 0.1em;
+    color: white;
+  }
+
+  .floating-menu img {
+    width: 60px;
+    height: 60px;
+  }
