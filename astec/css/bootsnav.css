@@ -65,7 +65,7 @@ nav.navbar.bootsnav ul.nav li.active > a{
 }
 
 nav.navbar.bootsnav .navbar-toggle{
-    background-color: #fff !important;
+    background-color: rgb(231, 12, 12) !important;
     border: none;
     padding: 0;
     font-size: 18px;
