@@ -5034,9 +5034,10 @@ textarea.input-group-sm>.input-group-btn>.btn {
     }
 }
 
-@media (min-width:768px) {
+@media (min-width:400px) {
     .navbar-header {
-        float: left
+        float: left;
+        /*display: none;*/
     }
 }
 
@@ -7471,6 +7472,12 @@ button.close {
     line-height: 1
 }
 
+@media (max-width: 400px) {
+    .mobile-hide {
+        display: none !important;
+    }
+}
+
 @media all and (transform-3d),
 (-webkit-transform-3d) {
     .carousel-inner>.item {
@@ -8039,6 +8046,5 @@ button.close {
         display: none!important
     }
 }
-
 
 /*# sourceMappingURL=bootstrap.min.css.map */
