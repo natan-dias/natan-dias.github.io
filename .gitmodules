@@ -1,6 +1,4 @@
-[submodule "emotions.hugo/themes/hermit"]
-	path = emotions.hugo/themes/hermit
-	url = https://github.com/Track3/hermit
+
 [submodule "emotions.hugo/themes/hello-friend"]
 	path = emotions.hugo/themes/hello-friend
 	url = https://github.com/rhazdon/hugo-theme-hello-friend-ng
