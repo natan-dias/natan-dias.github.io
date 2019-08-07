@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "https://natandino.github.io/emotions.hugo/"
 languageCode = "en-us"
 theme = "hello-friend"
 
