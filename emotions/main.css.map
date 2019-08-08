@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "/home/natandino/HTML/git_HubDino/natandino.github.io/emotions.hugo",
+	"sourceRoot": "/home/natandino/hugo/emotions.hugo",
 	"sources": [
 		"themes/hello-friend/assets/scss/main.scss",
 		"themes/hello-friend/assets/scss/_normalize.scss",
