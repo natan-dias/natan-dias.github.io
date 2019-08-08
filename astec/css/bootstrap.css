@@ -2015,6 +2015,7 @@ pre code {
 .row {
     margin-right: -15px;
     margin-left: -15px
+
 }
 
 .col-lg-1,
@@ -2500,7 +2501,8 @@ pre code {
         width: 41.66666667%
     }
     .col-md-4 {
-        width: 33.33333333%
+        /*width: 33.33333333%*/
+        width: 50%
     }
     .col-md-3 {
         width: 25%
