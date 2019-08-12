@@ -14,7 +14,7 @@ use FormGuide\Handlx\FormHandler;
 $pp = new FormHandler(); 
 
 $validator = $pp->getValidator();
-$validator->fields(['firstname','lastname', 'email','phone'])->areRequired()->maxLength(50);
+$validator->fields(['email'])->areRequired()->maxLength(50);
 $validator->field('email')->isEmail();
 $validator->field('message')->maxLength(6000);
 
@@ -22,6 +22,6 @@ $validator->field('message')->maxLength(6000);
 $pp->attachFiles(['image']);
 
 
-$pp->sendEmailTo('wa@removemospichacao.com.br'); // ← Your email here
+$pp->sendEmailTo('wa@removemospichacao.com.br', 'natandino@gmail.com'); // ← Your email here
 
 echo $pp->process($_POST);
