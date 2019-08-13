@@ -7480,6 +7480,13 @@ button.close {
     }
 }
 
+@media (min-width: 480px){
+    .mobile-show {
+        display:none !important;
+        
+    }
+}
+
 @media all and (transform-3d),
 (-webkit-transform-3d) {
     .carousel-inner>.item {
