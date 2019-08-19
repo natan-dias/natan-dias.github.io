@@ -134,7 +134,7 @@ a:hover,a:focus{ text-decoration: none}
 
 /* Top Nav */
 .top_nav {
-    background: #DDE9ED none repeat scroll 0 0;
+    background: rgb(255, 255, 255) none repeat scroll 0 0;
     overflow: hidden;
     padding: 10px 0;
 }
@@ -162,14 +162,14 @@ a:hover,a:focus{ text-decoration: none}
 }
 /* Main Nav */
 nav.navbar.bootsnav {
-    background: rgb(216, 38, 38) none repeat scroll 0 0;
+    background: rgb(255, 255, 255) none repeat scroll 0 0;
     border: 0 none;
 }
 nav.navbar.bootsnav ul.nav > li > a {
-    color: #fff;
+    color: #b11515;
 }
 nav.navbar.bootsnav ul.nav > li > a:hover,nav.navbar.bootsnav ul.nav > li > a:focus {
-    color: #aaa;
+    color: rgb(3, 2, 2);
 }
 .navbar-brand {
     height: auto;
@@ -239,7 +239,7 @@ nav.navbar.bootsnav ul.nav > li > a:hover,nav.navbar.bootsnav ul.nav > li > a:fo
     line-height: 28px;
 }
 .btn.know_btn {
-    background: #696969 none repeat scroll 0 0;
+    background: #ef0f0f none repeat scroll 0 0;
     border-radius: 30px;
     color: #fff;
     font-family: "futura_ltbold",sans-serif;
@@ -257,8 +257,8 @@ nav.navbar.bootsnav ul.nav > li > a:hover,nav.navbar.bootsnav ul.nav > li > a:fo
 .btn.know_btn:hover,
 .btn.know_btn:focus {
     background: transparent;
-    color:#696969;
-    border:1px solid #696969;
+    color:#ef0f0f;
+    border:1px solid #ef0f0f;
 }
 
 
