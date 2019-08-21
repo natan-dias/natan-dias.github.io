@@ -134,7 +134,7 @@ a:hover,a:focus{ text-decoration: none}
 
 /* Top Nav */
 .top_nav {
-    background: rgb(255, 255, 255) none repeat scroll 0 0;
+    background: rgb(194, 17, 17) none repeat scroll 0 0;
     overflow: hidden;
     padding: 10px 0;
 }
@@ -146,11 +146,11 @@ a:hover,a:focus{ text-decoration: none}
     padding: 0 20px 0 0;
 }
 .list-inline.info a,.list-inline.social_icon a {
-    color: red;
+    color: white;
     font-family: 'futura_ltbook', sans-serif;
 }
 .list-inline.info a:hover,.list-inline.social_icon a:hover {
-    color: #555;
+    color: black;
 }
 .list-inline.info a .fa,.list-inline.social_icon  a .fa {
     font-size: 20px;
@@ -191,6 +191,12 @@ nav.navbar.bootsnav ul.nav > li > a:hover,nav.navbar.bootsnav ul.nav > li > a:fo
 }
 .attr-nav > ul > li > a:hover,.attr-nav > ul > li > a:focus {
     color: #d7a300;
+}
+.dropdown {
+    list-style-type: none;
+}
+.dropdown-menu {
+    list-style-type: none;
 }
 /* Carousel */
 .home .carousel {
@@ -298,6 +304,13 @@ nav.navbar.bootsnav ul.nav > li > a:hover,nav.navbar.bootsnav ul.nav > li > a:fo
 }
 .about_bg {
     background: url(../images/about_bg.png)no-repeat right;
+}
+#about .fa {
+    border-radius: 100%;
+    box-shadow: 0 0 0 10px #484848;
+    color: red;
+    padding: 38px;
+    font-size: 50px;
 }
 
 /*Head Title*/

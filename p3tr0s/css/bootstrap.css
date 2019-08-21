@@ -1408,13 +1408,13 @@ textarea {
 }
 
 a {
-    color: #337ab7;
+    color: #ba2a1f;
     text-decoration: none
 }
 
 a:focus,
 a:hover {
-    color: #23527c;
+    color: #181a1b;
     text-decoration: underline
 }
 
@@ -4296,7 +4296,7 @@ tbody.collapse.in {
     clear: both;
     font-weight: 400;
     line-height: 1.42857143;
-    color: #333;
+    color: #c21313;
     white-space: nowrap
 }
 
@@ -4390,11 +4390,16 @@ tbody.collapse.in {
 @media (min-width:768px) {
     .navbar-right .dropdown-menu {
         right: 0;
-        left: auto
+        left: auto;
+        color: #c21313;
+        list-style-type: none;
+
     }
     .navbar-right .dropdown-menu-left {
         right: auto;
-        left: 0
+        left: 0;
+        color: #c21313;
+        list-style-type: none;
     }
 }
 
