@@ -22,7 +22,7 @@ img.logo {
 img.logo_mobile {
     width: 350px;
     height: 155px;
-    margin-left: -15px;
+    /*margin-left: -15px;*/
     margin-top: -25px;
 }
 
