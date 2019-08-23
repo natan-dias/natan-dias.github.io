@@ -20,10 +20,11 @@ img.logo {
     height: 90px;
 }
 img.logo_mobile {
-    width: 350px;
-    height: 155px;
-    /*margin-left: -15px;*/
+    width: 330px;
+    height: 175px;
+    padding-right: initial;
     margin-top: -25px;
+    margin-bottom: -50px;
 }
 
 
