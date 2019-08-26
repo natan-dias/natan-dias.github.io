@@ -17,6 +17,7 @@ h3 {font-size: 20px; margin: 0 0 10px;}
 img {width: 100%;}
 img.logo_footer {
     width: 100%;
+    margin-top: -20px;
 }
 img.logo {
     width: 245px;
@@ -637,7 +638,7 @@ footer::after {
 }
 .footer_top,.footer_bottom{ position:relative; z-index:1; color:#fff;}
 .footer_item {
-    margin-top: 75px;
+    margin-top: 50px;
 }
 .footer_item > h4 {
     color: #fff;
@@ -655,7 +656,7 @@ footer::after {
     width: 200px;
 }
 .list-inline.footer_social_icon {
-    margin: 32px 0 0;
+    margin: 32px 85px 0;
 }
 .footer_social_icon .fa {
     background: red none repeat scroll 0 0;
@@ -667,6 +668,20 @@ footer::after {
     text-align: center;
     width: 45px;
 }
+
+@media (max-width: 480px) { /* Media for Footer Social Icons Mobile */
+    .footer_social_icon .fa {
+        background: red none repeat scroll 0 0;
+        border-radius: 100%;
+        color: #222;
+        font-size: 15px;
+        height: 39px;
+        padding: 12px;
+        text-align: center;
+        width: 41px;
+    }
+}
+
 .footer_item .footer_social_icon .fa:hover,.footer_item .footer_social_icon .fa:focus {
     background: #49170e none repeat scroll 0 0;
 }
