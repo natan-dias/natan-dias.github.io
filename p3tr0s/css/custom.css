@@ -15,6 +15,9 @@ h1{font-size: 70px; margin:0; line-height: 72px;}
 h2 {font-size: 30px; margin: 0 0 20px;}
 h3 {font-size: 20px; margin: 0 0 10px;}
 img {width: 100%;}
+img.logo_footer {
+    width: 100%;
+}
 img.logo {
     width: 245px;
     height: 90px;
@@ -655,7 +658,7 @@ footer::after {
     margin: 32px 0 0;
 }
 .footer_social_icon .fa {
-    background: #ffcb0f none repeat scroll 0 0;
+    background: red none repeat scroll 0 0;
     border-radius: 100%;
     color: #222;
     font-size: 20px;
@@ -665,7 +668,7 @@ footer::after {
     width: 45px;
 }
 .footer_item .footer_social_icon .fa:hover,.footer_item .footer_social_icon .fa:focus {
-    background: #d7a300 none repeat scroll 0 0;
+    background: #49170e none repeat scroll 0 0;
 }
 /* Footer Explore */
 .footer_menu .fa {
