@@ -2466,7 +2466,6 @@ pre code {
     .col-md-10,
     .col-md-11,
     .col-md-12,
-    .col-md-2,
     .col-md-3,
     .col-md-4,
     .col-md-5,
@@ -2475,6 +2474,9 @@ pre code {
     .col-md-8,
     .col-md-9 {
         float: left
+    }
+    .col-md-2 {
+        float: right
     }
     .col-md-12 {
         width: 100%
@@ -2508,7 +2510,7 @@ pre code {
         width: 25%
     }
     .col-md-2 {
-        width: 16.66666667%
+        width: 32.667%
     }
     .col-md-1 {
         width: 8.33333333%
