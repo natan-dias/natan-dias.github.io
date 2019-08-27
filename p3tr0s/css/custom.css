@@ -382,7 +382,7 @@ nav.navbar.bootsnav ul.nav > li > a:hover,nav.navbar.bootsnav ul.nav > li > a:fo
 }
 
 .treinamentos_bg {
-    background-color: #484848;
+    background: url(../images/cybersecurity_bg2.jpg);
 }
 
 .trn_item { 
