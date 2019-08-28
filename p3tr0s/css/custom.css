@@ -318,7 +318,9 @@ nav.navbar.bootsnav ul.nav > li > a:hover,nav.navbar.bootsnav ul.nav > li > a:fo
 }
 
 .about_bg {
-    background: url(../images/cybersecurity.png);
+    background: url(../images/cybersecurity_bg1.jpg);
+    position: relative;
+    
 }
 
 @media (max-width: 480px){
@@ -406,7 +408,11 @@ nav.navbar.bootsnav ul.nav > li > a:hover,nav.navbar.bootsnav ul.nav > li > a:fo
     padding: 35px;
 }
 
-.contatos h2, p {
+.contatos h2 {
+    color: #484848;
+}
+
+.contatos p {
     color: #484848;
 }
 
