@@ -223,10 +223,16 @@ a:focus {
 }
 img {
   vertical-align: middle;
+  /*width: 75px;*/
+}
+
+.img-logo {
+  vertical-align: middle;
+  width: 75px;
 }
 .img-responsive {
   display: block;
-  max-width: 100%;
+  max-width: 10%;
   height: auto;
 }
 .img-rounded {
@@ -2880,7 +2886,7 @@ textarea.input-group-sm > .input-group-btn > .btn {
 }
 .navbar-brand {
   float: left;
-  padding: 15px 15px;
+  padding: 0px 15px;
   font-size: 18px;
   line-height: 20px;
 }
