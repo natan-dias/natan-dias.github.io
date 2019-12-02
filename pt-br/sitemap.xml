@@ -17,6 +17,20 @@
   </url>
   
   <url>
+    <loc>/pt-br/games.html</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/games.html"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="/pt-br/games.html"
+                />
+  </url>
+  
+  <url>
     <loc>/pt-br/</loc>
     <xhtml:link
                 rel="alternate"
@@ -27,6 +41,34 @@
                 rel="alternate"
                 hreflang="pt-br"
                 href="/pt-br/"
+                />
+  </url>
+  
+  <url>
+    <loc>/pt-br/projects.html</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/projects.html"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="/pt-br/projects.html"
+                />
+  </url>
+  
+  <url>
+    <loc>/pt-br/about.html</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/about.html"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="/pt-br/about.html"
                 />
   </url>
   

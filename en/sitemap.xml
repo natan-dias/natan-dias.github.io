@@ -3,6 +3,20 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/about.html</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="/pt-br/about.html"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/about.html"
+                />
+  </url>
+  
+  <url>
     <loc>/categories.html</loc>
     <xhtml:link
                 rel="alternate"
@@ -17,6 +31,20 @@
   </url>
   
   <url>
+    <loc>/games.html</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="/pt-br/games.html"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/games.html"
+                />
+  </url>
+  
+  <url>
     <loc>/</loc>
     <xhtml:link
                 rel="alternate"
@@ -27,6 +55,20 @@
                 rel="alternate"
                 hreflang="en"
                 href="/"
+                />
+  </url>
+  
+  <url>
+    <loc>/projects.html</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="/pt-br/projects.html"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/projects.html"
                 />
   </url>
   
