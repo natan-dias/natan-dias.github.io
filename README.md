@@ -1,3 +1,5 @@
+[![Build status](https://dev.azure.com/natan-dias/study/_apis/build/status/study-CI)](https://dev.azure.com/natan-dias/study/_build/latest?definitionId=-1)
+
 # Natan Dias Website
 
 GitHub site for demonstrations, applications, tests and knowledge transfers.
