@@ -1,4 +1,4 @@
-[![Build status](https://dev.azure.com/natan-dias/natan-dias.github.io/_apis/build/status/natan-dias.github.io-CI)](https://dev.azure.com/natan-dias/natan-dias.github.io/_build/latest?definitionId=-1)
+[![Build status](https://dev.azure.com/natan-dias/natan-dias.github.io/_apis/build/status/natan-dias.github.io-CI)](https://dev.azure.com/natan-dias/natan-dias.github.io/_build/latest?definitionId=6)
 
 # Natan Dias Website
 
