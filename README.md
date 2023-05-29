@@ -2,16 +2,10 @@
 
 # Natan Dias Website
 
-GitHub site for demonstrations, applications, tests and knowledge transfers.
-
-### Versioning
-
-We use [SemVer](http://semver.org/) for versioning.
-
-Current Version: 0.1.2
+My site with my CV, some projects, blogs and a couple of things I like to share.
 
 ## Author
-* **Natan Dias** - *SRE*
+* **Natan Dias** - *DevOps Engineer*
 
 ## Licensing
 
