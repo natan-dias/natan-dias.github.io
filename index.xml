@@ -6,5 +6,57 @@
     <description>Recent content on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language><atom:link href="https://natan-dias.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About me!</title>
+      <link>https://natan-dias.github.io/about/</link>
+      <pubDate>Tue, 30 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://natan-dias.github.io/about/</guid>
+      <description>Hi, I am a Sysadmin since 2005 and a DevOps Engineer since early 2018. I just love to work with IT and to learn about new technologies and frameworks. Currently I am learning more about Python and Go languages to help my devops tasks. I really love to work with Kubernetes, Terraform and Jenkins, btw.
+In my free time, I used to play a lot of videogames and watch some series.</description>
+    </item>
+    
+    <item>
+      <title>My Blog</title>
+      <link>https://natan-dias.github.io/posts/</link>
+      <pubDate>Tue, 30 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://natan-dias.github.io/posts/</guid>
+      <description>Still under construction. Please come back later!</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://natan-dias.github.io/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://natan-dias.github.io/contact/</guid>
+      <description>Follow me and leave a message:
+Here is my LinkedIn or send me an email</description>
+    </item>
+    
+    <item>
+      <title>Curriculum</title>
+      <link>https://natan-dias.github.io/cv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://natan-dias.github.io/cv/</guid>
+      <description>Nataniel Dias de Almeida Link to heading More than 10 years working as an IT professional. ITIL, and infrastructure management best practices. Extensive experience in Windows infrastructure. Administration of Linux Red Hat servers and other distributions.
+Since 2017/2018 working with cool Devops culture and helping teams to implement that culture across many environments. Really love to work with Kubernetes administration, Terraform and Jenkins pipelines.
+I engaged with the implementation from the beginning of tools like RedHat Openshift, Azure Devops and Docker.</description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://natan-dias.github.io/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://natan-dias.github.io/projects/</guid>
+      <description>Some cool projects I am working Link to heading We Became What We Behold Link to heading A cool HTML/JS game I am contributting about Fake News and Social Media. Please take a look and play.
+PT-BR Version of the game Link to heading WBWWB - PT-BR
+English version of the game Link to heading WBWWB - EN
+My Github fork with PT-BR translation Link to heading Github Fork - WBWWB</description>
+    </item>
+    
   </channel>
 </rss>

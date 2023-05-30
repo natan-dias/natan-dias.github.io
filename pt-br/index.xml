@@ -6,5 +6,56 @@
     <description>Recent content on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language><atom:link href="https://natan-dias.github.io/pt-br/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Meu Blog</title>
+      <link>https://natan-dias.github.io/pt-br/posts/</link>
+      <pubDate>Tue, 30 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://natan-dias.github.io/pt-br/posts/</guid>
+      <description>Em construção. Por favor, retorne aqui mais tarde.</description>
+    </item>
+    
+    <item>
+      <title>Sobre mim!</title>
+      <link>https://natan-dias.github.io/pt-br/about/</link>
+      <pubDate>Tue, 30 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://natan-dias.github.io/pt-br/about/</guid>
+      <description>Olá, sou um Sysadmin desde 2005 e um DevOps Engineer desde 2018. Adoro trabalhar com IT a aprender sobre novas tecnologias. Atualmente tenho estudado Python e Go para me ajudar em meu dia a dia como Devops. Gosto muito de trabalhar com Kubernetes, Terraform e Jenkins.
+Em meu tempo livre, costumo jogar bastante videogame e assistir algumas séries. Mas como minha esposa não gosta tanto assim de videogames, também gosto de passar algum tempo de qualidade visitando lugares legais e comendo em bons restaurantes com ela.</description>
+    </item>
+    
+    <item>
+      <title>Contato</title>
+      <link>https://natan-dias.github.io/pt-br/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://natan-dias.github.io/pt-br/contact/</guid>
+      <description>Siga-me e deixe uma mensagem:
+Aqui está o meu LinkedIn ou me mande um email</description>
+    </item>
+    
+    <item>
+      <title>Curriculum</title>
+      <link>https://natan-dias.github.io/pt-br/cv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://natan-dias.github.io/pt-br/cv/</guid>
+      <description>Nataniel Dias de Almeida Link para o cabeçalho Mais de 10 anos trabalhando como um profissional de TI. Melhores práticas em ITIL e gestão de infraestrutura. Vasta experiência em administração de ambientes Windows e Linux RedHat e outras distribuições.
+Desde 2017/2018 trabalhando com ambientes Devops e ajudando diversos times a implementar esta cultura eu seus ambientes. Gosto muito de trabalhar com administração Kubernetes, Terraform e pipelines baseadas em Jenkins.</description>
+    </item>
+    
+    <item>
+      <title>Projetos</title>
+      <link>https://natan-dias.github.io/pt-br/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://natan-dias.github.io/pt-br/projects/</guid>
+      <description>Alguns projetos legais que estou trabalhando Link para o cabeçalho We Became What We Behold Link para o cabeçalho Um jogo legal em HTML/JS que eu estou contribuindo, sobre Fake News e Redes Sociais. Dê uma olhada e jogue.
+Versão PT-BR Link para o cabeçalho WBWWB - PT-BR
+Versão em Inglês Link para o cabeçalho WBWWB - EN
+Meu Github fork com a tradução PT-BR Link para o cabeçalho Github Fork - WBWWB</description>
+    </item>
+    
   </channel>
 </rss>

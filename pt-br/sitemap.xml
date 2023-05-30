@@ -2,6 +2,32 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://natan-dias.github.io/pt-br/posts/</loc>
+    <lastmod>2023-05-30T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://natan-dias.github.io/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="https://natan-dias.github.io/pt-br/posts/"
+                />
+  </url><url>
+    <loc>https://natan-dias.github.io/pt-br/about/</loc>
+    <lastmod>2023-05-30T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://natan-dias.github.io/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="https://natan-dias.github.io/pt-br/about/"
+                />
+  </url><url>
     <loc>https://natan-dias.github.io/pt-br/</loc>
     <xhtml:link
                 rel="alternate"
@@ -36,6 +62,42 @@
                 rel="alternate"
                 hreflang="pt-br"
                 href="https://natan-dias.github.io/pt-br/categories/"
+                />
+  </url><url>
+    <loc>https://natan-dias.github.io/pt-br/contact/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://natan-dias.github.io/contact/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="https://natan-dias.github.io/pt-br/contact/"
+                />
+  </url><url>
+    <loc>https://natan-dias.github.io/pt-br/cv/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://natan-dias.github.io/cv/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="https://natan-dias.github.io/pt-br/cv/"
+                />
+  </url><url>
+    <loc>https://natan-dias.github.io/pt-br/projects/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://natan-dias.github.io/projects/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="https://natan-dias.github.io/pt-br/projects/"
                 />
   </url><url>
     <loc>https://natan-dias.github.io/pt-br/series/</loc>
